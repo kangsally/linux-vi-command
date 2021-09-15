@@ -107,4 +107,4 @@
 
 주요 파일/etc/hosts : IP 주소와 호스트명을 매칭시키는 파일
 
-참고문서 https://docs.google.com/document/d/1kv4VlXsF1fMvfZRx-0r7hADNI2Bitx7b9DAdSI0DFCY/edit 자주 사용되는 리눅스 (Mac) 및 vi 명령
+참고문서 https://docs.google.com/document/d/1kv4VlXsF1fMvfZRx-0r7hADNI2Bitx7b9DAdSI0DFCY/edit
